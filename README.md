@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wnderin
-### Systems Engineer • Fabric Mod Developer • Server Configurator
+### Minecraft Developer & Server Configurator
 
 [![Discord](https://img.shields.io/badge/Discord-Wnderinlol-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/404212501761490954)
 [![GitHub](https://img.shields.io/badge/GitHub-articosmetics-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/articosmetics)
@@ -10,9 +10,9 @@
 ---
 
 ```java
-public class Wnderin extends SystemsEngineer {
+public class Wnderin extends MinecraftConfigurator {
     String location     = "Netherlands";
-    String[] focus      = {"Game Server Architecture", "Fabric Mixins", "Performance Tuning"};
+    String[] focus      = {"Game Servers", "Plugin Configuration", "Fabric Client Mods"};
     String[] platforms  = {"PaperMC", "Folia", "Fabric 1.21+", "Velocity"};
     boolean available   = true; // Open for server projects and commissions
 }
@@ -103,7 +103,7 @@ public class Wnderin extends SystemsEngineer {
 | **Languages** | `Java 21`, `GLSL Shaders`, `C++ / Win32`, `YAML`, `JSON`, `MiniMessage` |
 | **Minecraft Server APIs** | `PaperMC`, `Folia (Threaded Regions)`, `Purpur`, `Velocity`, `Spigot` |
 | **Modding and Bytecode** | `Fabric Loom`, `Fabric Mixins`, `RenderSystem`, `Minecraft 1.21.x` |
-| **DevOps and Infrastructure** | `Linux / Ubuntu`, `Docker`, `Pterodactyl Panel`, `Git / GitHub`, `Spark Profiler` |
+| **Server Tools & Management** | `Pterodactyl Panel`, `Spark Profiler`, `Git / GitHub`, `Server Configuration` |
 | **Databases and Caching** | `MySQL`, `MariaDB`, `Redis`, `MongoDB`, `SQLite` |
 
 </div>
